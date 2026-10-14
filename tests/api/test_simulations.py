@@ -1,4 +1,4 @@
-```python
+
 import requests
 
 
@@ -16,4 +16,3 @@ def test_simular_rendimento_mensal(base_url, auth_headers):
     )
 
     assert response.status_code == 200
-```
