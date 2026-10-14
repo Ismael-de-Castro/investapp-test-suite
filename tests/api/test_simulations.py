@@ -1,5 +1,3 @@
-import requests
-
 
 def test_simular_rendimento_mensal(base_url, auth_headers):
     """Testa a simulação de rendimento mensal para 12 meses."""
